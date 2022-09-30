@@ -1,2 +1,2 @@
-# Algoritmos-y-programaci-n
+# Algoritmos
 Aquí estarán todos los talleres de la unidad de algoritmos y programación
