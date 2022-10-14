@@ -1,7 +1,4 @@
 #Entradas
-from socket import PF_CAN
-
-
 ExamenM= float(input("Ingrese la nota del examen de matemáticas: "))
 M1=float(input("Ingrese las notas de las tareas de matemáticas: "))
 M2=float(input())
